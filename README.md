@@ -89,4 +89,8 @@ The format is highly suitable for applications that need to visualize, analyze, 
 * The format is also suitable for use in web-based visualizers and desktop applications, providing a way to display and interact with origami models.
 
 This format enables a seamless integration of geometric and topological data, making it an ideal choice for anyone working with origami design or related fields.
+---
+# viwer
+## [fold](https://edemaine.github.io/fold/examples/foldviewer.html)
+## [cp](https://wiorigami.github.io/cp_viewer.github.io/)
 
