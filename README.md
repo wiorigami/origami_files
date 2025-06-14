@@ -18,15 +18,11 @@ Each line represents one line segment, with the following details:
 
 * **Segment Type**: This indicates the color of the line segment. The mapping is as follows:
 
-  * Type 1: Black line segment
-  * Type 2: Red line segment
-  * Type 3: Blue line segment
-  * Other types are used for auxiliary lines and are mapped to the following colors:
+  * Type 1: Black line segment `000000`
+  * Type 2: Red line segment `FF0000`
+  * Type 3: Blue line segment `0000FF`
+  * Other types are used for auxiliary lines
 
-    * 0000FF: Valley lines (Blue)
-    * FF0000: Mountain lines (Red)
-    * 000000: Black lines
-    * Gray: Auxiliary lines
 
 * **x1, y1**: The coordinates of the start point of the line segment.
 
